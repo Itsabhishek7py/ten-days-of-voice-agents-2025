@@ -147,12 +147,16 @@ This will start:
 
 ```bash
 # Terminal 1 - LiveKit Server
-livekit-server --dev
+.\livekit-server --dev
+# OR if it's an .exe
+.\livekit-server.exe --dev
 
+```
 # Terminal 2 - Backend Agent
 cd backend
 uv run python src/agent.py dev
-
+```
+```
 # Terminal 3 - Frontend
 cd frontend
 pnpm dev
