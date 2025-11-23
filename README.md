@@ -1,4 +1,14 @@
-# AI Voice Agents Challenge - Starter Repository
+# Welcome to Dr. Abhishek Tutorial! 📚
+
+
+---
+## 🎯 10 Days Solution Guide
+[![10 Days Solution Guide](https://img.shields.io/badge/10_Days_Solution_Guide-Complete_Course-blue?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLzJwCIvZuAFYsAsdv36b5kmOmNdOftU21)
+
+
+
+[![Subscribe to Dr. Abhishek Tutorial](https://img.shields.io/badge/SUBSCRIBE-Dr.%20Abhishek%20Tutorial-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@drabhishek.5460/videos)
+
 
 Welcome to the **AI Voice Agents Challenge** by [murf.ai](https://murf.ai)!
 
@@ -153,11 +163,14 @@ This will start:
 
 ```
 # Terminal 2 - Backend Agent
+```
 cd backend
 uv run python src/agent.py dev
+
 ```
-```
+
 # Terminal 3 - Frontend
+```
 cd frontend
 pnpm dev
 ```
